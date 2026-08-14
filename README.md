@@ -1,4 +1,3 @@
-# Eldoria
 # 🌍 Eldoria
 
 ### AI-Powered Procedural Worldbuilding Engine
